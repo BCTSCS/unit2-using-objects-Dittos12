@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Loops
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Loops\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=start\ stop\ increase
+comment1.target=void\ forLoop(int,\ int,\ int)
+comment2.params=input
+comment2.target=void\ whileLoop(int)
+comment3.params=uno
+comment3.target=void\ addHyphen(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
